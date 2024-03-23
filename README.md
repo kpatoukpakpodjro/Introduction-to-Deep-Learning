@@ -11,3 +11,5 @@ En utilisant Keras et Tensorflow, j'ai appris à :
   
 Les didacticiels m'ont présenté des sujets avec des exemples complets, puis dans les exercices, j'ai exploreré des sujets plus en 
 profondeur et les ai appliqués à des ensembles de données du monde réel.
+
+![KPATOUKPA Kpodjro - Intro to Deep Learning](https://github.com/kpatoukpakpodjro/Introduction-to-Deep-Learning/assets/102617343/ab9af3a2-59f7-40ac-81b8-1314b66b91f9)
